@@ -4,6 +4,7 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 
 ### Transactions
 - [analytx.io](http://analytx.io/map)
+- [bitcoin traffic](http://spottedmarley.com/thinkabout/bitcoin-traffic/)
 - [bitcoin.interaqt.nl](http://bitcoin.interaqt.nl/)
 - [bitcoincity.info](http://bitcoincity.info/)
 - [bitcoinmonitor.com](https://www.bitcoinmonitor.com/)
@@ -23,8 +24,9 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [realtimebitcoin.info](http://realtimebitcoin.info/)
 - [robmyers.org](http://robmyers.org/blockchain-aesthetics/)
 
-
+### Blocks
+- [tradeblock.com](https://tradeblock.com/bitcoin/)
 
 ### Nodes
-- [bitnodes](https://bitnodes.21.co/)
+- [bitnodes.21.co](https://bitnodes.21.co/)
 - [blockchain.info](https://blockchain.info/pt/nodes-globe)
