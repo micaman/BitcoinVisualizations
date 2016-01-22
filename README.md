@@ -33,5 +33,5 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [tradeblock.com](https://tradeblock.com/bitcoin/)
 
 ### Nodes
-- [bitnodes.21.co](https://bitnodes.21.co/)
+- [bitnodes.21.co](https://bitnodes.21.co/nodes/live-map/)
 - [blockchain.info](https://blockchain.info/pt/nodes-globe)
