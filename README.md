@@ -22,6 +22,7 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [btc-transactions-viz.mkvd.net](http://btc-transactions-viz.mkvd.net/)
 - [chainflyer.bitflyer.jp](http://chainflyer.bitflyer.jp/)
 - [dailyblockchain.github.io](http://dailyblockchain.github.io/)
+- [dm214 MSc Computing Science](http://www.doc.ic.ac.uk/~dm214/dsi_coinobs/Web/Bitcoin/mempool.html)
 - [elliptic.co](https://www.elliptic.co/bigbang-v1.html)
 - [federalbitcoin.herokuapp.com](https://federalbitcoin.herokuapp.com/)
 - [fiatleak.com](http://fiatleak.com/)
