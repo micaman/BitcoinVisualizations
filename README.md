@@ -3,7 +3,6 @@
 This repository is (or aims to be) the most complete list of Bitcoin Visualizations on the Internet. <br/><br/>Please, feel free to [suggest new projects or improvements](https://github.com/micaman/BitcoinVisualizations/issues/new) to the list :)
 
 ### Transactions
-- [analytx.io](http://analytx.io/map)
 - [bitbonkers.com](http://bitbonkers.com/)
 - [bitcoin traffic](http://spottedmarley.com/thinkabout/bitcoin-traffic/)
 - [bitcoin.interaqt.nl](http://bitcoin.interaqt.nl/)
@@ -23,7 +22,6 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [chainflyer.bitflyer.jp](http://chainflyer.bitflyer.jp/)
 - [dailyblockchain.github.io](http://dailyblockchain.github.io/)
 - [dm214 MSc Computing Science](http://www.doc.ic.ac.uk/~dm214/dsi_coinobs/Web/Bitcoin/mempool.html)
-- [elliptic.co](https://www.elliptic.co/bigbang-v1.html)
 - [federalbitcoin.herokuapp.com](https://federalbitcoin.herokuapp.com/)
 - [fiatleak.com](http://fiatleak.com/)
 - [realtimebitcoin.info](http://realtimebitcoin.info/)
@@ -37,3 +35,10 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 ### Nodes
 - [bitnodes.21.co](https://bitnodes.21.co/nodes/live-map/)
 - [blockchain.info](https://blockchain.info/pt/nodes-globe)
+
+
+
+
+### Removed
+- [analytx.io](http://analytx.io/map) - Not found
+- [elliptic.co](https://www.elliptic.co/bigbang-v1.html) - Not live
