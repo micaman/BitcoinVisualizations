@@ -4,7 +4,6 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 
 ### Transactions
 - [bitbonkers.com](http://bitbonkers.com/)
-- [bitcoin traffic](http://spottedmarley.com/thinkabout/bitcoin-traffic/)
 - [bitcoin.interaqt.nl](http://bitcoin.interaqt.nl/)
 - [bitcoincity.info](http://bitcoincity.info/)
 - [bitcoinmonitor.com](https://www.bitcoinmonitor.com/)
@@ -12,7 +11,6 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [bitcoinvisual.herokuapp.com](http://bitcoinvisual.herokuapp.com/)
 - [bitforce5.com](http://bitforce5.com/)
 - [bitlisten.com](http://www.bitlisten.com/)
-- [bits.coinlaunch.com](http://bits.coinlaunch.com/)
 - [blockchain matrix](http://www.gatherhelp.com/tests/matrix/)
 - [blockchain.info](https://blockchain.info/unconfirmed-transactions)
 - [blockchainvisualization.github.io](http://blockchainvisualization.github.io/)
@@ -21,7 +19,6 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [btc-transactions-viz.mkvd.net](http://btc-transactions-viz.mkvd.net/)
 - [chainflyer.bitflyer.jp](http://chainflyer.bitflyer.jp/)
 - [dailyblockchain.github.io](http://dailyblockchain.github.io/)
-- [dm214 MSc Computing Science](http://www.doc.ic.ac.uk/~dm214/dsi_coinobs/Web/Bitcoin/mempool.html)
 - [federalbitcoin.herokuapp.com](https://federalbitcoin.herokuapp.com/)
 - [fiatleak.com](http://fiatleak.com/)
 - [realtimebitcoin.info](http://realtimebitcoin.info/)
@@ -32,13 +29,15 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 ### Blocks
 - [tradeblock.com](https://tradeblock.com/bitcoin/)
 
+
 ### Nodes
 - [bitnodes.21.co](https://bitnodes.21.co/nodes/live-map/)
 - [blockchain.info](https://blockchain.info/pt/nodes-globe)
 
 
-
-
 ### Removed
-- [analytx.io](http://analytx.io/map) - Not found
-- [elliptic.co](https://www.elliptic.co/bigbang-v1.html) - Not live
+- [analytx.io](http://analytx.io/map)
+- [elliptic.co](https://www.elliptic.co/bigbang-v1.html)
+- [bitcoin traffic](http://spottedmarley.com/thinkabout/bitcoin-traffic/)
+- [bits.coinlaunch.com](http://bits.coinlaunch.com/)
+- [dm214 MSc Computing Science](http://www.doc.ic.ac.uk/~dm214/dsi_coinobs/Web/Bitcoin/mempool.html)
