@@ -21,7 +21,6 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [chainflyer.bitflyer.jp](http://chainflyer.bitflyer.jp/)
 - [dailyblockchain.github.io](http://dailyblockchain.github.io/)
 - [federalbitcoin.herokuapp.com](https://federalbitcoin.herokuapp.com/)
-- [fiatleak.com](http://fiatleak.com/)
 - [realtimebitcoin.info](http://realtimebitcoin.info/)
 - [robmyers.org](http://robmyers.org/blockchain-aesthetics/)
 - [simple.gy](http://www.simple.gy/bitcoin/)
@@ -35,6 +34,10 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [bitnodes.21.co](https://bitnodes.21.co/nodes/live-map/)
 - [blockchain.info](https://blockchain.info/pt/nodes-globe)
 
+
+### Tickers
+- [emojiticker.com](http://www.emojiticker.com/)
+- [fiatleak.com](http://fiatleak.com/)
 
 ### Removed
 - [analytx.io](http://analytx.io/map)
