@@ -2,7 +2,7 @@
 ![](http://bitcoincity.info/tm.png)
 This repository is (or aims to be) the most complete list of Bitcoin Visualizations on the Internet. <br/><br/>Please, feel free to [suggest new projects or improvements](https://github.com/micaman/BitcoinVisualizations/issues/new) to the list :)
 
-### Transactions
+### Live Transactions
 - [bitbonkers.com](http://bitbonkers.com/)
 - [bitcoin.interaqt.nl](http://bitcoin.interaqt.nl/)
 - [bitcoincity.info](http://bitcoincity.info/)
@@ -38,6 +38,12 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 ### Tickers
 - [emojiticker.com](http://www.emojiticker.com/)
 - [fiatleak.com](http://fiatleak.com/)
+
+
+### Offline
+- [blockchain3d.info](http://blockchain3d.info/)
+
+
 
 ### Removed
 - [analytx.io](http://analytx.io/map)
