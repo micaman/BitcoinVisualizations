@@ -24,7 +24,8 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [realtimebitcoin.info](http://realtimebitcoin.info/)
 - [robmyers.org](http://robmyers.org/blockchain-aesthetics/)
 - [simple.gy](http://www.simple.gy/bitcoin/)
-- [tx highway](https://txhighway.com/)
+- [txhighway.cash](https://txhighway.cash/)
+- [txhighway.com](https://txhighway.com/)
 
 ### Blocks
 - [tradeblock.com](https://tradeblock.com/bitcoin/)
