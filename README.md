@@ -27,6 +27,7 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [simple.gy](http://www.simple.gy/bitcoin/)
 - [txhighway.cash](https://txhighway.cash/)
 - [txhighway.com](https://txhighway.com/)
+- [visualblockchain.org](http://visualblockchain.org/)
 
 ### Blocks
 - [tradeblock.com](https://tradeblock.com/bitcoin/)
