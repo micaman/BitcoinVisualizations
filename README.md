@@ -29,7 +29,9 @@ This repository is (or aims to be) the most complete list of Bitcoin Visualizati
 - [txhighway.com](https://txhighway.com/)
 - [visualblockchain.org](http://visualblockchain.org/)
 
+
 ### Blocks
+- [symphony.iohk.io](https://symphony.iohk.io/)
 - [tradeblock.com](https://tradeblock.com/bitcoin/)
 
 
